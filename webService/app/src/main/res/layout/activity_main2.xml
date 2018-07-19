@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main2Activity">
+    <TextView
+        android:id="@+id/cep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cep"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/logradouro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="logradouro"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/complemento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="complemento"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/bairro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bairro"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/localidade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="localidade"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/uf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="uf"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/unidade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="unidade"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/ibge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ibge"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/gia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="gia"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true" />
+
+
+
+
+</LinearLayout>

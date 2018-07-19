@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppCalculaPeso</string>
+    <string name="strTitulo">Calculadora (IMC)</string>
+    <string name="strPeso">Peso</string>
+    <string name="strAltura">Altura</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnValorReferencia">Referencia</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="FaixaPeso1">Muito abaixo do peso</string>
+    <string name="FaixaPeso2">Abaixo do peso</string>
+    <string name="FaixaPeso3">Peso normal</string>
+    <string name="FaixaPeso4">Acima do peso</string>
+    <string name="FaixaPeso5">Obesidade I </string>
+    <string name="FaixaPeso6">Obesidade II (severa) </string>
+    <string name="FaixaPeso7">Obesidade III (mórbida) </string>
+    <string name="semValor">Sem Valor</string>
+
+    <string name="FaixaPeso1Referencia">Muito abaixo do peso(Abaixo de 17.0)</string>
+    <string name="FaixaPeso2Referencia">Abaixo do peso(Entre 17.0 e 18.49)</string>
+    <string name="FaixaPeso3Referencia">Peso normal(Entre 18.5 e 24.99)</string>
+    <string name="FaixaPeso4Referencia">Acima do peso(Entre 25 e 29.99)</string>
+    <string name="FaixaPeso5Referencia">Obesidade I(Entre 30 e 34.99)</string>
+    <string name="FaixaPeso6Referencia">Obesidade II (severa)(Entre 35 e 39.99)</string>
+    <string name="FaixaPeso7Referencia">Obesidade III (mórbida)(Acima 40)</string>
+</resources>

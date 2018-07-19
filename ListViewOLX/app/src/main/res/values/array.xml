@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="imagens">
+        <item>@drawable/parafuso</item>
+        <item>@drawable/caderno</item>
+        <item>@drawable/caneta</item>
+        <item>@drawable/martelo</item>
+        <item>@drawable/mesa</item>
+    </array>
+
+</resources>
